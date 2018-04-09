@@ -1,5 +1,19 @@
-.view,body,html{height:100%}.navbar{background-color:rgba(0,0,0,.2)}.page-footer,.top-nav-collapse{background-color:#1C2331}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
+.view,body,html{height:100%}.navbar{background-color:#00799e}.page-footer,.top-nav-collapse{background-color:#00799e}@media only screen and (max-width:768px){.navbar{background-color:#1C2331}}
 
 #buttons {
-	background-color: #040404 !important;
+	background-color: #7d964b !important;
+}
+
+.ekko-lightbox-nav-overlay a {
+    color: #e84f29;
+}
+.gallery-title {
+    text-align: center;
+	font-weight: 500;
+	border-bottom: 1px dotted #e84f29;
+	margin-top: 1em;
+}
+
+.page-footer {
+	background-color: #00799e !important;
 }
